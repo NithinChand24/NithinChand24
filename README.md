@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @NithinChand24
+- 👀 I’m interested in QA Automation
+- 🌱 I’m currently learning Automation Scripts(Web & MobileApp)
+- 📫 How to reach me.. https://www.linkedin.com/in/nithinchand-s-n-a66a69240?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
